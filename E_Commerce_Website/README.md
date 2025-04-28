@@ -18,8 +18,7 @@ Built for scalability and user engagement! 🚀
 
 ## 🛠 Tech Stack
 - 🖥️ Frontend: **HTML**, **CSS**, **JavaScript**
-- ⚙️ Backend: **Python (Flask / Django)** *(Update based on actual project)*
-- 🗄️ Database: **SQLite / MySQL**
+- ⚙️ Backend: **Node.js** 
 
 ---
 
@@ -49,3 +48,4 @@ http://127.0.0.1:5000/
 ```
 ---
 📸 Output Screenshots
+![image](https://github.com/user-attachments/assets/4b147217-689f-4727-96a5-371690756d2e)
