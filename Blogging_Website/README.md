@@ -17,8 +17,8 @@ Crafted with love ❤️ for seamless content sharing!
 
 ## 🛠 Tech Stack
 - 🖥️ Frontend: **HTML**, **CSS**, **JavaScript**
-- ⚙️ Backend: **Python (Flask / Django)** *(Update based on actual project)*
-- 🗄️ Database: **SQLite / MySQL**
+- ⚙️ Backend: **Python,Node.js** 
+- 🗄️ Database: **FireBase**
 
 ---
 
